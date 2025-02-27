@@ -1,2 +1,2 @@
 # RecetaFO
-Ejercicio Atzimba maquetación
+Ejercicio Atzimba maquetación Contiene HTML, CSS JS e imagenes
