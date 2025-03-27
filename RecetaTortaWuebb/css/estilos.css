@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ef981e; 
+}
+
+header {
+    background-color: sandybrown;
+}
+
+* {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+
+.top-receta {
+    background-image: ; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+}
